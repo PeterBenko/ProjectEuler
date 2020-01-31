@@ -1,0 +1,31 @@
+{
+  "name": "project-euler",
+  "version": "0.0.0",
+  "description": "A project to tackle the challenges of Project Euler",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterBenko/ProjectEuler.git"
+  },
+  "keywords": [
+    "project-euler",
+    "euler"
+  ],
+  "author": "Peter Benko",
+  "bugs": {
+    "url": "https://github.com/PeterBenko/ProjectEuler/issues"
+  },
+  "homepage": "https://github.com/PeterBenko/ProjectEuler#readme",
+  "dependencies": {
+    "@types/jest": "^25.1.1",
+    "jest": "^25.1.0",
+    "ts-jest": "^25.1.0",
+    "ts-node": "^8.6.2"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
+}
